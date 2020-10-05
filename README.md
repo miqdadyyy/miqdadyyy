@@ -5,7 +5,7 @@ I'm a 4th year undergraduate from **Jember University** in **Information System 
 
 - 📖 Currently learning **NodeJS** and **Backend Development**
 - <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/meme.gif" width="20vw"> Send me your *funniest* or *darkest* **meme**
-- Pronouns He/Him 🙎‍♂️
+- 🙎‍♂️ Pronouns He/Him
 - <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/happy.gif" width="20vw"> Send me **Codes** not **Nudes** ❌
 - <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/hmm.gif" width="20vw"> I just learn how to use **README** on my **Github** profile
 - 🚩 CTF is **fun**, but get hacked is **not fun** at all
@@ -36,5 +36,5 @@ I'm a 4th year undergraduate from **Jember University** in **Information System 
 </p>
 
 ### **Connect with me** <img alt="Handshake" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/handshake.gif" width="30px">
-| [<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/miqdad-farcha-085a4a127/) | [<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/miqdadyyy/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/miqdadyyy) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@miqdadfarcha) | [<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:miqdad,farcha@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+[<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/miqdad-farcha-085a4a127/) [<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/miqdadyyy/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/miqdadyyy) [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@miqdadfarcha) [<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:miqdad,farcha@gmail.com)
