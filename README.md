@@ -1,6 +1,6 @@
 ## Hello there, I'm Miqdad <img alt="Wave" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/wave.gif" width="30px">
 
-*Hi, my name is **Miqdad Farcha** also known as **miqdadyyy** a 21 y/o Back-end Developer, System Administrator and Junior DevOps from Indonesia 🇮🇩. 
+*Hi, my name is **Miqdad Farcha** also known as **miqdadyyy** a 22 y/o Back-end Developer, System Administrator and Junior DevOps from Indonesia 🇮🇩. 
 I'm a 4th year undergraduate from **Jember University** in **Information System Program** who like to improve himself in **Software Development** skill <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/developer.gif" width="18px">*
 
 - 📖 Currently learning **NodeJS** and **Backend Development**
