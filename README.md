@@ -1,40 +1,44 @@
-## Hello there, I'm Miqdad <img alt="Wave" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/wave.gif" width="30px">
+## Hi There
+I'm **Mqd**, Software Engineer who likes doing something on backend of the apps.
 
-*Hi, my name is **Miqdad Farcha** also known as **miqdadyyy** a 22 y/o Back-end Developer, System Administrator and Junior DevOps from Indonesia 🇮🇩. 
-I'm a 4th year undergraduate from **Jember University** in **Information System Program** who like to improve himself in **Software Development** skill <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/developer.gif" width="18px">*
+- 🌏 I'm currently working remotely on the world
+- 🐈 I liked cats more than my girlfriend
+- 👦🏻 Pronouns: He/Him
+- 🧑🏻‍💻 Let's working on project together (Open source / paid i dont care)
+- 📩 Reach me by clicking [this](mailto:miqdad.farcha@gmail.com)
 
-- 📖 Currently learning **NodeJS** and **Backend Development**
-- <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/meme.gif" width="20vw"> Send me your *funniest* or *darkest* **meme**
-- 🙎‍♂️ Pronouns He/Him
-- <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/happy.gif" width="20vw"> Send me **Codes** not **Nudes** ❌
-- <img alt="GIF" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/hmm.gif" width="20vw"> I just learn how to use **README** on my **Github** profile
-- 🚩 CTF is **fun**, but get hacked is **not fun** at all
+---
 
-### **Programming Language and Tools**
-**Programming Language**  
+## Github Activity
+<!--START_SECTION:activity-->
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+---
 
-**Tools**  
+## Connect with me:
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png"></code>
-<code><img height="25" src="https://www.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
+<p align = "center">
 
-### **Statistics**
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=miqdadyyy&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqdadyyy&layout=compact&theme=buefy" alt="languages" height="165">
+[<img src="https://img.shields.io/badge/discord-%23.svg?&style=for-the-badge&logo=discord&logoColor=white&color=black" />](https://discord.com/users/373739560942829569)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/miqdadyyy) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/miqdadyyy/)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@miqdadfarcha)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/miqdadyyy)
+[<img src="https://img.shields.io/badge/telegram-%23.svg?&style=for-the-badge&logo=telegram&logoColor=white&color=black" />](https://t.me/miqdadyyy)
+
 </p>
 
-### **Connect with me** <img alt="Handshake" src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/handshake.gif" width="30px">
+---
 
-[<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/miqdadyyy/) [<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/miqdadyyy/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/miqdadyyy) [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@miqdadfarcha) [<img src="https://github.com/miqdadyyy/miqdadyyy/blob/master/assets/gmail.svg" alt="Gmail logo" height="32">](mailto:miqdad,farcha@gmail.com)
+<h2 align="center"> 🚀 My Stats 🚀</h2>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=miqdadyyy&theme=tokyonight">
+</p>
+<details>
+  <summary>
+      Even more stats
+  </summary>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=miqdadyyy&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=miqdadyyy&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
+  </p>
+</details>
